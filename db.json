@@ -1,5 +1,22 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "louay elaroui",
+      "lastName": "louay elaroui",
+      "email": "kineapp1111@gmail.com",
+      "mobile": "+21650740663",
+      "salary": "200"
+    },
+    {
+      "id": 2,
+      "firstName": "elaroui",
+      "lastName": "louay",
+      "email": "louayaroui0@gmail.com",
+      "mobile": "20200202",
+      "salary": "500"
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
